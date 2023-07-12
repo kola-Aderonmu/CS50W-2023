@@ -1,0 +1,13 @@
+***Some major Git commands:****
+git clone [url]
+git add  (for single adding)
+git commit -am "COMMENT"  _____(this is to both add and commit)
+git log  ___(show you a log of track changes made to each commit)
+git status ____(show the status of the banch)
+git checkout -b BRANCH _____(creates a new branch called BRANCH)
+git checkout [branch_name] ____(allows you switch from one branch to another)
+git merge ____(this help you merge changes from both branches)
+
+Fork ___(This means maaking a duplicate of a repository into your your acct)
+pull request  ____(This is the request you make in order to push back to git origin repository)
+github pages ____(this is easy way to read a webpage)
